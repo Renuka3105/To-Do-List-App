@@ -25,9 +25,9 @@ This is a desktop-based To-Do List application built using **Python and Tkinter*
 
   ## Project Structure
   ``` todo-tkinter-auth/
-  ├── todo_app.py # Main Python file (GUI, login, task logic) 
-  ├── users.pkl # Stores hashed usernames and passwords (auto-created)
-  ├── tasks_<username>.pkl # User-specific task files (created after login)
-  ├── README.md # Project documentation 
-  └── __pycache__/ # Python cache files (auto-generated) 
+  ├── todo_app.py           # Main Python file (GUI, login, task logic) 
+  ├── users.pkl             # Stores hashed usernames and passwords (auto-created)
+  ├── tasks_<username>.pkl  # User-specific task files (created after login)
+  ├── README.md             # Project documentation 
+  └── __pycache__/          # Python cache files (auto-generated) 
 
